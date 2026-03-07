@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanishgupta1211/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/tanishgupta1211/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/tanishgupta1211/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
