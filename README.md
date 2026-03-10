@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanishgupta1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/tanishgupta1211/Leetcode/tree/master/0724-find-pivot-index) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/tanishgupta1211/Leetcode/tree/master/1051-height-checker) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanishgupta1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/tanishgupta1211/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
