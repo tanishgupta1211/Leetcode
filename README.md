@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/tanishgupta1211/Leetcode/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/tanishgupta1211/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0941-valid-mountain-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/tanishgupta1211/Leetcode/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/tanishgupta1211/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Sorting
