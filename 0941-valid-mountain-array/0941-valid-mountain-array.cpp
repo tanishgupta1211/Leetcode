@@ -3,18 +3,15 @@ public:
     bool validMountainArray(vector<int>& arr) {
         int n = arr.size();
 
-        int peak = max_element(arr.begin(), arr.end()) - arr.begin();
+        if(n < 3) return false;
 
-        if(peak == 0 || peak == n-1) return false;
+        int i = 0;
+        while(i + 1 < n && arr[i] < arr[i + 1]) i++;
 
-        for(int i = 0; i < peak; i++){
-            if(arr[i] >= arr[i+1]) return false;
-        }
+        if(i == 0 || i == n - 1) return false;
 
-        for(int i = peak; i < n-1; i++){
-            if(arr[i] <= arr[i+1]) return false;
-        }
+        while(i + 1 < n && arr[i] > arr[i + 1]) i++;
 
-        return true;
+        return i == n - 1;
     }
 };
