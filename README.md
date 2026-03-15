@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanishgupta1211/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishgupta1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/tanishgupta1211/Leetcode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/tanishgupta1211/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanishgupta1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishgupta1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishgupta1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/tanishgupta1211/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0061-rotate-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
