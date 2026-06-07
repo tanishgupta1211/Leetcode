@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishgupta1211/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0941-valid-mountain-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0941-valid-mountain-array) |
+| [0976-largest-perimeter-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishgupta1211/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/tanishgupta1211/Leetcode/tree/master/1051-height-checker) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/tanishgupta1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0976-largest-perimeter-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/tanishgupta1211/Leetcode/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/3731-find-missing-elements) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/tanishgupta1211/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0976-largest-perimeter-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/tanishgupta1211/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 ## Geometry
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tanishgupta1211/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/0402-remove-k-digits) |
 | [0860-lemonade-change](https://github.com/tanishgupta1211/Leetcode/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
