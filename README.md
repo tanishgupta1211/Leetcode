@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/tanishgupta1211/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2239-find-closest-number-to-zero](https://github.com/tanishgupta1211/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [3731-find-missing-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/3731-find-missing-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3731-find-missing-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/tanishgupta1211/Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
