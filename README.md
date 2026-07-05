@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tanishgupta1211/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/tanishgupta1211/Leetcode/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/tanishgupta1211/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1301-number-of-paths-with-max-score](https://github.com/tanishgupta1211/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishgupta1211/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/tanishgupta1211/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tanishgupta1211/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishgupta1211/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1301-number-of-paths-with-max-score](https://github.com/tanishgupta1211/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0867-transpose-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/tanishgupta1211/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
