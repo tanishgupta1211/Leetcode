@@ -15,12 +15,15 @@ public:
 
     int romanToInt(string s) {
         int ans = 0;
-        for (int i = 0; i < s.size(); i++) {
+        int prev = 0;
+        for (int i = s.size() - 1; i >= 0; i--) {
             int curr = getValue(s[i]);
-            if (i + 1 < s.size() && curr < getValue(s[i + 1]))
+            if (curr < prev)
                 ans -= curr;
             else
                 ans += curr;
+
+            prev = curr;
         }
         return ans;
     }
