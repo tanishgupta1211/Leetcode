@@ -1,20 +1,26 @@
 class Solution {
 public:
+    int getValue(char c) {
+        switch (c) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
+        }
+        return 0;
+    }
+
     int romanToInt(string s) {
         int ans = 0;
-        unordered_map<char, int> mp;
-        mp['I'] = 1;
-        mp['V'] = 5;
-        mp['X'] = 10;
-        mp['L'] = 50;
-        mp['C'] = 100;
-        mp['D'] = 500;
-        mp['M'] = 1000;
-        for(int i = 0; i < s.size(); i++){
-            if(i+1 < s.size() && mp[s[i]] < mp[s[i+1]])
-                ans -= mp[s[i]];
+        for (int i = 0; i < s.size(); i++) {
+            int curr = getValue(s[i]);
+            if (i + 1 < s.size() && curr < getValue(s[i + 1]))
+                ans -= curr;
             else
-                ans += mp[s[i]]; 
+                ans += curr;
         }
         return ans;
     }
