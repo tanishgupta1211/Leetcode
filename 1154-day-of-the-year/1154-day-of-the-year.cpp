@@ -2,21 +2,18 @@ class Solution {
 public:
     int dayOfYear(string date) {
 
-        vector<int> days = {31,28,31,30,31,30,31,31,30,31,30,31};
+        int prefix[] = {0,31,59,90,120,151,181,212,243,273,304,334};
 
-        int year = stoi(date.substr(0,4));
+        int year  = stoi(date.substr(0,4));
         int month = stoi(date.substr(5,2));
-        int day = stoi(date.substr(8,2));
+        int day   = stoi(date.substr(8,2));
 
         bool leap = (year % 400 == 0) ||
                     (year % 4 == 0 && year % 100 != 0);
 
-        int ans = day;
+        int ans = prefix[month - 1] + day;
 
-        for(int i = 0; i < month - 1; i++)
-            ans += days[i];
-
-        if(leap && month > 2)
+        if (leap && month > 2)
             ans++;
 
         return ans;
