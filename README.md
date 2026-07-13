@@ -438,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/tanishgupta1211/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
