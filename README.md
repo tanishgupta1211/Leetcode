@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tanishgupta1211/Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishgupta1211/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/tanishgupta1211/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/tanishgupta1211/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/tanishgupta1211/Leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/tanishgupta1211/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/tanishgupta1211/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0867-transpose-matrix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/tanishgupta1211/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3921-score-validator) |
