@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/tanishgupta1211/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3921-score-validator) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/tanishgupta1211/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3884-first-matching-character-from-both-ends](https://github.com/tanishgupta1211/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Geometry
 |  |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-vowel-consonant-score](https://github.com/tanishgupta1211/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/tanishgupta1211/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3921-score-validator) |
 ## Recursion
@@ -533,4 +538,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanishgupta1211/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
