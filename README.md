@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/tanishgupta1211/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/tanishgupta1211/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanishgupta1211/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/tanishgupta1211/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/tanishgupta1211/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3606-coupon-code-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3692-majority-frequency-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3692-majority-frequency-characters) |
 | [3707-equal-score-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/3707-equal-score-substrings) |
