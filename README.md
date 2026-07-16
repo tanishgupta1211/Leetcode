@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tanishgupta1211/Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishgupta1211/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3794-reverse-string-prefix](https://github.com/tanishgupta1211/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/tanishgupta1211/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Binary Search
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
 | [3707-equal-score-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3794-reverse-string-prefix](https://github.com/tanishgupta1211/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/tanishgupta1211/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/tanishgupta1211/Leetcode/tree/master/3838-weighted-word-mapping) |
