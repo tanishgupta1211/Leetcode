@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/tanishgupta1211/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishgupta1211/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3692-majority-frequency-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishgupta1211/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3692-majority-frequency-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3692-majority-frequency-characters) |
 | [3731-find-missing-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/3731-find-missing-elements) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishgupta1211/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3582-generate-tag-for-video-caption](https://github.com/tanishgupta1211/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/tanishgupta1211/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3606-coupon-code-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
