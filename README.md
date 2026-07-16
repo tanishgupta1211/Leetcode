@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3707-equal-score-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/tanishgupta1211/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/tanishgupta1211/Leetcode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/tanishgupta1211/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/tanishgupta1211/Leetcode/tree/master/3838-weighted-word-mapping) |
