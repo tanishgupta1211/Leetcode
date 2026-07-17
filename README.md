@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/tanishgupta1211/Leetcode/tree/master/0735-asteroid-collision) |
 | [0804-unique-morse-code-words](https://github.com/tanishgupta1211/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/tanishgupta1211/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0821-shortest-distance-to-a-character](https://github.com/tanishgupta1211/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/tanishgupta1211/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/tanishgupta1211/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishgupta1211/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0821-shortest-distance-to-a-character](https://github.com/tanishgupta1211/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/tanishgupta1211/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/tanishgupta1211/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/tanishgupta1211/Leetcode/tree/master/0709-to-lower-case) |
 | [0804-unique-morse-code-words](https://github.com/tanishgupta1211/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/tanishgupta1211/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tanishgupta1211/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishgupta1211/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/tanishgupta1211/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
