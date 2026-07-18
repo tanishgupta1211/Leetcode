@@ -1,12 +1,14 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        unordered_map<char, int> mp;
+        vector<bool> isJewel(128, false);
+        for(char ch : jewels)
+            isJewel[ch] = true;
         int ans = 0;
         for(char ch : stones)
-            mp[ch]++;
-        for(char ch : jewels)
-            ans += mp[ch];
-        return ans; 
+            if(isJewel[ch])
+                ans++;
+
+        return ans;
     }
 };
