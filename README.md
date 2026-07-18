@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/tanishgupta1211/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/tanishgupta1211/Leetcode/tree/master/0735-asteroid-collision) |
+| [0748-shortest-completing-word](https://github.com/tanishgupta1211/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/tanishgupta1211/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/tanishgupta1211/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanishgupta1211/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/tanishgupta1211/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanishgupta1211/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0748-shortest-completing-word](https://github.com/tanishgupta1211/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/tanishgupta1211/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/tanishgupta1211/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tanishgupta1211/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/tanishgupta1211/Leetcode/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/tanishgupta1211/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/tanishgupta1211/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/tanishgupta1211/Leetcode/tree/master/0804-unique-morse-code-words) |
