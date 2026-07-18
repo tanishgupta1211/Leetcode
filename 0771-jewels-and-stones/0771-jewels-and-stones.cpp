@@ -1,14 +1,12 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        vector<bool> isJewel(128, false);
-        for(char ch : jewels)
-            isJewel[ch] = true;
+        unordered_set<char> st(jewels.begin(), jewels.end());
         int ans = 0;
-        for(char ch : stones)
-            if(isJewel[ch])
+        for(char ch : stones){
+            if(st.count(ch))
                 ans++;
-
+        }
         return ans;
     }
 };
