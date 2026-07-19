@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/tanishgupta1211/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/tanishgupta1211/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/tanishgupta1211/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0859-buddy-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tanishgupta1211/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0953-verifying-an-alien-dictionary](https://github.com/tanishgupta1211/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/tanishgupta1211/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanishgupta1211/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/tanishgupta1211/Leetcode/tree/master/0824-goat-latin) |
+| [0859-buddy-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tanishgupta1211/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishgupta1211/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/tanishgupta1211/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
