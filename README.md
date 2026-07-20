@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishgupta1211/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0929-unique-email-addresses](https://github.com/tanishgupta1211/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/tanishgupta1211/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishgupta1211/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tanishgupta1211/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0929-unique-email-addresses](https://github.com/tanishgupta1211/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/tanishgupta1211/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/tanishgupta1211/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tanishgupta1211/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0925-long-pressed-name](https://github.com/tanishgupta1211/Leetcode/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/tanishgupta1211/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/tanishgupta1211/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanishgupta1211/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/tanishgupta1211/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
