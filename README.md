@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/tanishgupta1211/Leetcode/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/tanishgupta1211/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1360-number-of-days-between-two-dates](https://github.com/tanishgupta1211/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/tanishgupta1211/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1332-remove-palindromic-subsequences](https://github.com/tanishgupta1211/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1360-number-of-days-between-two-dates](https://github.com/tanishgupta1211/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishgupta1211/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
