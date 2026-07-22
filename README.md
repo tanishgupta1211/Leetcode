@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/tanishgupta1211/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishgupta1211/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishgupta1211/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/tanishgupta1211/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/tanishgupta1211/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1370-increasing-decreasing-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/tanishgupta1211/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/tanishgupta1211/Leetcode/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1446-consecutive-characters) |
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
