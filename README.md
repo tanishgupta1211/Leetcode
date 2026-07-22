@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishgupta1211/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishgupta1211/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/tanishgupta1211/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishgupta1211/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishgupta1211/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
