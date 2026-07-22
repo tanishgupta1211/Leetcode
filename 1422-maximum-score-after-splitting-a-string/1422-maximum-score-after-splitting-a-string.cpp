@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int maxScore(string s) {
+        int one = 0;
+        for (char ch : s) {
+            if (ch == '1')
+                one++;
+        }
+        int zero = 0;
+        int mx = 0;
+        for (int i = 0; i < s.size() - 1; i++) {
+            if (s[i] == '0')
+                zero++;
+            else
+                one--;
+            mx = max(mx, zero + one);
+        }
+        return mx;
+    }
+};
