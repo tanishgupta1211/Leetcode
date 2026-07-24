@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1629-slowest-key](https://github.com/tanishgupta1211/Leetcode/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishgupta1211/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/tanishgupta1211/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/tanishgupta1211/Leetcode/tree/master/1694-reformat-phone-number) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tanishgupta1211/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishgupta1211/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanishgupta1211/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1668-maximum-repeating-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
