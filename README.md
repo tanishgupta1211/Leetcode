@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/tanishgupta1211/Leetcode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/tanishgupta1211/Leetcode/tree/master/1598-crawler-log-folder) |
+| [1629-slowest-key](https://github.com/tanishgupta1211/Leetcode/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishgupta1211/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/tanishgupta1211/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/tanishgupta1211/Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/tanishgupta1211/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1629-slowest-key](https://github.com/tanishgupta1211/Leetcode/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishgupta1211/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/tanishgupta1211/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
