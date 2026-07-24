@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/tanishgupta1211/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanishgupta1211/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/tanishgupta1211/Leetcode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanishgupta1211/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/tanishgupta1211/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0867-transpose-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3582-generate-tag-for-video-caption](https://github.com/tanishgupta1211/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3813-vowel-consonant-score](https://github.com/tanishgupta1211/Leetcode/tree/master/3813-vowel-consonant-score) |
@@ -668,6 +671,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanishgupta1211/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
