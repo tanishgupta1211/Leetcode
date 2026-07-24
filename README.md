@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3606-coupon-code-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/tanishgupta1211/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanishgupta1211/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/tanishgupta1211/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanishgupta1211/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Design
 |  |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/1291-sequential-digits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Backtracking
 |  |
 | ------- |
