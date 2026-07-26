@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2864-maximum-odd-binary-number](https://github.com/tanishgupta1211/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/tanishgupta1211/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tanishgupta1211/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2833-furthest-point-from-origin](https://github.com/tanishgupta1211/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2864-maximum-odd-binary-number](https://github.com/tanishgupta1211/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3407-substring-matching-pattern](https://github.com/tanishgupta1211/Leetcode/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2864-maximum-odd-binary-number](https://github.com/tanishgupta1211/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
 |  |
