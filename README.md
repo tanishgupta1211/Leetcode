@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/tanishgupta1211/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2864-maximum-odd-binary-number](https://github.com/tanishgupta1211/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2937-make-three-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3407-substring-matching-pattern](https://github.com/tanishgupta1211/Leetcode/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
