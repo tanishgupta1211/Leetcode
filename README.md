@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2864-maximum-odd-binary-number](https://github.com/tanishgupta1211/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tanishgupta1211/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2937-make-three-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3330-find-the-original-typed-string-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3407-substring-matching-pattern](https://github.com/tanishgupta1211/Leetcode/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
