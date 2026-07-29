@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2937-make-three-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3110-score-of-a-string) |
+| [3136-valid-word](https://github.com/tanishgupta1211/Leetcode/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/tanishgupta1211/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3174-clear-digits) |
