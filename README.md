@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tanishgupta1211/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2937-make-three-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3110-score-of-a-string) |
 | [3210-find-the-encrypted-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3248-snake-in-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/3248-snake-in-matrix) |
