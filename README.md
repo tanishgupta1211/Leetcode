@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2937-make-three-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3248-snake-in-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/3248-snake-in-matrix) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/tanishgupta1211/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3174-clear-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0867-transpose-matrix) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/tanishgupta1211/Leetcode/tree/master/2810-faulty-keyboard) |
+| [3174-clear-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
