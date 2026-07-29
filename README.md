@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2937-make-three-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3110-score-of-a-string) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/tanishgupta1211/Leetcode/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/1291-sequential-digits) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Backtracking
 |  |
