@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2864-maximum-odd-binary-number](https://github.com/tanishgupta1211/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tanishgupta1211/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2937-make-three-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishgupta1211/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3110-score-of-a-string) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2864-maximum-odd-binary-number](https://github.com/tanishgupta1211/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tanishgupta1211/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Dynamic Programming
