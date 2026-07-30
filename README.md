@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2937-make-three-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3019-number-of-changing-keys](https://github.com/tanishgupta1211/Leetcode/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishgupta1211/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3110-score-of-a-string) |
