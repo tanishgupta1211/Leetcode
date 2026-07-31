@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-reformat-phone-number](https://github.com/tanishgupta1211/Leetcode/tree/master/1694-reformat-phone-number) |
 | [2490-circular-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2678-number-of-senior-citizens](https://github.com/tanishgupta1211/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/tanishgupta1211/Leetcode/tree/master/2716-minimize-string-length) |
