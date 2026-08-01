@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2239-find-closest-number-to-zero](https://github.com/tanishgupta1211/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanishgupta1211/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/tanishgupta1211/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/tanishgupta1211/Leetcode/tree/master/2788-split-strings-by-separator) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanishgupta1211/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/tanishgupta1211/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-reformat-phone-number](https://github.com/tanishgupta1211/Leetcode/tree/master/1694-reformat-phone-number) |
 | [2490-circular-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanishgupta1211/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2678-number-of-senior-citizens](https://github.com/tanishgupta1211/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
