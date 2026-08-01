@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2239-find-closest-number-to-zero](https://github.com/tanishgupta1211/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanishgupta1211/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/tanishgupta1211/Leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanishgupta1211/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/tanishgupta1211/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2716-minimize-string-length](https://github.com/tanishgupta1211/Leetcode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishgupta1211/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-reformat-phone-number](https://github.com/tanishgupta1211/Leetcode/tree/master/1694-reformat-phone-number) |
 | [2490-circular-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanishgupta1211/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/tanishgupta1211/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanishgupta1211/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Design
