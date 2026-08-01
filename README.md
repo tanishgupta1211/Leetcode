@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tanishgupta1211/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/tanishgupta1211/Leetcode/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/tanishgupta1211/Leetcode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanishgupta1211/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tanishgupta1211/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/tanishgupta1211/Leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/tanishgupta1211/Leetcode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/tanishgupta1211/Leetcode/tree/master/0812-largest-triangle-area) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/tanishgupta1211/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tanishgupta1211/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/tanishgupta1211/Leetcode/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishgupta1211/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanishgupta1211/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1668-maximum-repeating-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tanishgupta1211/Leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/tanishgupta1211/Leetcode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 ## String Matching
 |  |
@@ -791,4 +795,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/tanishgupta1211/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
