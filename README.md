@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-reformat-phone-number](https://github.com/tanishgupta1211/Leetcode/tree/master/1694-reformat-phone-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/tanishgupta1211/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1763-longest-nice-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/tanishgupta1211/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/tanishgupta1211/Leetcode/tree/master/1773-count-items-matching-a-rule) |
