@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2451-odd-string-difference](https://github.com/tanishgupta1211/Leetcode/tree/master/2451-odd-string-difference) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2716-minimize-string-length](https://github.com/tanishgupta1211/Leetcode/tree/master/2716-minimize-string-length) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/tanishgupta1211/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1694-reformat-phone-number](https://github.com/tanishgupta1211/Leetcode/tree/master/1694-reformat-phone-number) |
+| [1796-second-largest-digit-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishgupta1211/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/tanishgupta1211/Leetcode/tree/master/2451-odd-string-difference) |
 | [2490-circular-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/2490-circular-sentence) |
