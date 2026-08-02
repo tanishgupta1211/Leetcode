@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/tanishgupta1211/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/tanishgupta1211/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tanishgupta1211/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishgupta1211/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
