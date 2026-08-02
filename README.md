@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tanishgupta1211/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/tanishgupta1211/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/tanishgupta1211/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/tanishgupta1211/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1768-merge-strings-alternately](https://github.com/tanishgupta1211/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/tanishgupta1211/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishgupta1211/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
