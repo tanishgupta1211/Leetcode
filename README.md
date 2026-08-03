@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/tanishgupta1211/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2351-first-letter-to-appear-twice](https://github.com/tanishgupta1211/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/tanishgupta1211/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/tanishgupta1211/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/tanishgupta1211/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2451-odd-string-difference](https://github.com/tanishgupta1211/Leetcode/tree/master/2451-odd-string-difference) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2716-minimize-string-length](https://github.com/tanishgupta1211/Leetcode/tree/master/2716-minimize-string-length) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2315-count-asterisks](https://github.com/tanishgupta1211/Leetcode/tree/master/2315-count-asterisks) |
+| [2351-first-letter-to-appear-twice](https://github.com/tanishgupta1211/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishgupta1211/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/tanishgupta1211/Leetcode/tree/master/2451-odd-string-difference) |
 | [2490-circular-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/2490-circular-sentence) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanishgupta1211/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1763-longest-nice-substring) |
+| [2351-first-letter-to-appear-twice](https://github.com/tanishgupta1211/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
