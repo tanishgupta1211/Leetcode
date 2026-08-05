@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tanishgupta1211/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/tanishgupta1211/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2315-count-asterisks](https://github.com/tanishgupta1211/Leetcode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/tanishgupta1211/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/tanishgupta1211/Leetcode/tree/master/2409-count-days-spent-together) |
