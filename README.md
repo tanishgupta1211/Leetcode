@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/tanishgupta1211/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanishgupta1211/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/tanishgupta1211/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/tanishgupta1211/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tanishgupta1211/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/tanishgupta1211/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/tanishgupta1211/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2315-count-asterisks](https://github.com/tanishgupta1211/Leetcode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/tanishgupta1211/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/tanishgupta1211/Leetcode/tree/master/2409-count-days-spent-together) |
