@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/tanishgupta1211/Leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/tanishgupta1211/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanishgupta1211/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/tanishgupta1211/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2315-count-asterisks](https://github.com/tanishgupta1211/Leetcode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/tanishgupta1211/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/tanishgupta1211/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/tanishgupta1211/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/tanishgupta1211/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0867-transpose-matrix) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/tanishgupta1211/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/tanishgupta1211/Leetcode/tree/master/2810-faulty-keyboard) |
