@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanishgupta1211/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/tanishgupta1211/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2239-find-closest-number-to-zero](https://github.com/tanishgupta1211/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/tanishgupta1211/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/tanishgupta1211/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2103-rings-and-rods](https://github.com/tanishgupta1211/Leetcode/tree/master/2103-rings-and-rods) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/tanishgupta1211/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/tanishgupta1211/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/tanishgupta1211/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1668-maximum-repeating-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/tanishgupta1211/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3407-substring-matching-pattern](https://github.com/tanishgupta1211/Leetcode/tree/master/3407-substring-matching-pattern) |
 ## Bit Manipulation
