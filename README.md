@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/tanishgupta1211/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/tanishgupta1211/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2103-rings-and-rods](https://github.com/tanishgupta1211/Leetcode/tree/master/2103-rings-and-rods) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/tanishgupta1211/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/tanishgupta1211/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
