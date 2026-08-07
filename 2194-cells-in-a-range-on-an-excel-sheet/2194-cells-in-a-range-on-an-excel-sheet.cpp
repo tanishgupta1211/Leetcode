@@ -10,7 +10,6 @@ public:
                 ans.push_back(cell);
             }
         }
-
         return ans;
     }
 };
