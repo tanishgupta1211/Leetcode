@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2239-find-closest-number-to-zero](https://github.com/tanishgupta1211/Leetcode/tree/master/2239-find-closest-number-to-zero) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishgupta1211/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/tanishgupta1211/Leetcode/tree/master/2451-odd-string-difference) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanishgupta1211/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/tanishgupta1211/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/tanishgupta1211/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/tanishgupta1211/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
