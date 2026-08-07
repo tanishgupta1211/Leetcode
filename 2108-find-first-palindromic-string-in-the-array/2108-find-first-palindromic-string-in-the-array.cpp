@@ -3,11 +3,9 @@ public:
     bool isPalindrome(string word){
         int l = 0, r = word.size() - 1;
         while(l < r){
-            if(word[l] != word[r]){
+            if(word[l++] != word[r--]){
                 return false;
             }
-            l++;
-            r--;
         }
         return true;
     }
