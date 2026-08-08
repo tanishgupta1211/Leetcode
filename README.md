@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/tanishgupta1211/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/tanishgupta1211/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/tanishgupta1211/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/tanishgupta1211/Leetcode/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
