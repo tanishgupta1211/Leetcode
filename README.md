@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanishgupta1211/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/tanishgupta1211/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanishgupta1211/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanishgupta1211/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/tanishgupta1211/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanishgupta1211/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/tanishgupta1211/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/tanishgupta1211/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanishgupta1211/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/tanishgupta1211/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/tanishgupta1211/Leetcode/tree/master/2103-rings-and-rods) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/tanishgupta1211/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/tanishgupta1211/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2000-reverse-prefix-of-word](https://github.com/tanishgupta1211/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/tanishgupta1211/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/tanishgupta1211/Leetcode/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tanishgupta1211/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
