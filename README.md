@@ -673,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Queue
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tanishgupta1211/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/tanishgupta1211/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/tanishgupta1211/Leetcode/tree/master/0486-predict-the-winner) |
