@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/tanishgupta1211/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tanishgupta1211/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3248-snake-in-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2716-minimize-string-length](https://github.com/tanishgupta1211/Leetcode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanishgupta1211/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
