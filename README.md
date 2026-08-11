@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanishgupta1211/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tanishgupta1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/tanishgupta1211/Leetcode/tree/master/0290-word-pattern) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanishgupta1211/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanishgupta1211/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/tanishgupta1211/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tanishgupta1211/Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanishgupta1211/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -959,4 +962,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanishgupta1211/Leetcode/tree/master/0070-climbing-stairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
