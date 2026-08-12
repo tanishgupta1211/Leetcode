@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tanishgupta1211/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tanishgupta1211/Leetcode/tree/master/0013-roman-to-integer) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0061-rotate-list) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tanishgupta1211/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/tanishgupta1211/Leetcode/tree/master/0231-power-of-two) |
