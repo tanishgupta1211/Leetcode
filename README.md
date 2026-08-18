@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tanishgupta1211/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tanishgupta1211/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/tanishgupta1211/Leetcode/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/tanishgupta1211/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/0371-sum-of-two-integers) |
