@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/tanishgupta1211/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2652-sum-multiples](https://github.com/tanishgupta1211/Leetcode/tree/master/2652-sum-multiples) |
 | [2864-maximum-odd-binary-number](https://github.com/tanishgupta1211/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
