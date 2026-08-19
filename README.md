@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tanishgupta1211/Leetcode/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/tanishgupta1211/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/tanishgupta1211/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tanishgupta1211/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0319-bulb-switcher](https://github.com/tanishgupta1211/Leetcode/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/tanishgupta1211/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0264-ugly-number-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/tanishgupta1211/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/tanishgupta1211/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/tanishgupta1211/Leetcode/tree/master/0486-predict-the-winner) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tanishgupta1211/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishgupta1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
