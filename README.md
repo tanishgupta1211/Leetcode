@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/tanishgupta1211/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tanishgupta1211/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/tanishgupta1211/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/tanishgupta1211/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/tanishgupta1211/Leetcode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/tanishgupta1211/Leetcode/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/tanishgupta1211/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## String
