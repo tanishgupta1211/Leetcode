@@ -1,72 +1,15 @@
 class Solution {
 public:
     string intToRoman(int num) {
+        int value[] = {1000,900,500,400,100,90,50,40,10,9,5,4,1};
+        string symbol[] = {"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
         string ans;
-        while(num >= 1000){
-            ans += "M";
-            num -= 1000;
+        for(int i = 0; i < 13; i++){
+            while (num >= value[i]){
+                ans += symbol[i];
+                num -= value[i];
+            }
         }
-
-        if(num >= 900){
-            ans += "CM";
-            num -= 900;
-        }
-
-        while(num >= 500){
-            ans += "D";
-            num -= 500;
-        }
-
-        if(num >= 400){
-            ans += "CD";
-            num -= 400;
-        }
-
-        while(num >= 100){
-            ans += "C";
-            num -= 100;
-        }
-
-        if(num >= 90){
-            ans += "XC";
-            num -= 90;
-        }
-
-        while(num >= 50){
-            ans += "L";
-            num -= 50;
-        }
-
-        if(num >= 40){
-            ans += "XL";
-            num -= 40;
-        }
-
-        while(num >= 10){
-            ans += "X";
-            num -= 10;
-        }
-
-        if(num >= 9){
-            ans += "IX";
-            num -= 9;
-        }
-
-        while(num >= 5){
-            ans += "V";
-            num -= 5;
-        }
-
-        if(num >= 4){
-            ans += "IV";
-            num -= 4;
-        }
-
-        while(num >= 1){
-            ans += "I";
-            num -= 1;
-        }
-
         return ans;
     }
 };
