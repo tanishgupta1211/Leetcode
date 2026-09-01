@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tanishgupta1211/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/tanishgupta1211/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/tanishgupta1211/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tanishgupta1211/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanishgupta1211/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/tanishgupta1211/Leetcode/tree/master/0066-plus-one) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/tanishgupta1211/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanishgupta1211/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/tanishgupta1211/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tanishgupta1211/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tanishgupta1211/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanishgupta1211/Leetcode/tree/master/0067-add-binary) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tanishgupta1211/Leetcode/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/tanishgupta1211/Leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0867-transpose-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanishgupta1211/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
