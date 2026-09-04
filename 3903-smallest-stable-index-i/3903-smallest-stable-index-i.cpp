@@ -2,15 +2,15 @@ class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
-        for(int i = 0; i < n; i++){
-            int maxi = INT_MIN;
-            for(int j = 0; j <= i; j++)
-                maxi = max(maxi, nums[j]);
-            int mini = INT_MAX;
-            for(int j = i; j < n; j++)
-                mini = min(mini, nums[j]);
-            if(maxi - mini <= k) return i;
-        }
-        return -1;
+        int maxi = INT_MIN ;
+        for(int i = 0 ; i < n ;i++){
+            int  mini = INT_MAX , diff = 0;
+            maxi = max(maxi,nums[i]);
+            for(int j = i ; j < n ; j++)
+                mini = min(mini,nums[j]);
+            diff = maxi - mini;
+            if(diff <= k) return i;
+      }  
+      return -1;
     }
 };
