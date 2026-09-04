@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tanishgupta1211/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/tanishgupta1211/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tanishgupta1211/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanishgupta1211/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/tanishgupta1211/Leetcode/tree/master/0066-plus-one) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tanishgupta1211/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanishgupta1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tanishgupta1211/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanishgupta1211/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanishgupta1211/Leetcode/tree/master/0169-majority-element) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tanishgupta1211/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tanishgupta1211/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tanishgupta1211/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tanishgupta1211/Leetcode/tree/master/0125-valid-palindrome) |
