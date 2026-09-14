@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/tanishgupta1211/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/tanishgupta1211/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2652-sum-multiples](https://github.com/tanishgupta1211/Leetcode/tree/master/2652-sum-multiples) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/tanishgupta1211/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanishgupta1211/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -1037,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/tanishgupta1211/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanishgupta1211/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
