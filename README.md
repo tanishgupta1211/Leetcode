@@ -781,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanishgupta1211/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tanishgupta1211/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/tanishgupta1211/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Queue
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/tanishgupta1211/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/tanishgupta1211/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanishgupta1211/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/tanishgupta1211/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
