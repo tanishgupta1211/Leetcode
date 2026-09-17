@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tanishgupta1211/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tanishgupta1211/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tanishgupta1211/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/tanishgupta1211/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0118-pascals-triangle) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tanishgupta1211/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/tanishgupta1211/Leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0867-transpose-matrix) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/tanishgupta1211/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/tanishgupta1211/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0415-add-strings) |
