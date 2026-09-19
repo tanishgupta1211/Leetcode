@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/tanishgupta1211/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3174-clear-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3174-clear-digits) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanishgupta1211/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanishgupta1211/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/tanishgupta1211/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tanishgupta1211/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/tanishgupta1211/Leetcode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -890,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishgupta1211/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
