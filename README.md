@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/tanishgupta1211/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2326-spiral-matrix-iv](https://github.com/tanishgupta1211/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishgupta1211/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/tanishgupta1211/Leetcode/tree/master/2451-odd-string-difference) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/tanishgupta1211/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1668-maximum-repeating-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tanishgupta1211/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tanishgupta1211/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/tanishgupta1211/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -788,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanishgupta1211/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanishgupta1211/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2326-spiral-matrix-iv](https://github.com/tanishgupta1211/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/tanishgupta1211/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanishgupta1211/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2326-spiral-matrix-iv](https://github.com/tanishgupta1211/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -899,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishgupta1211/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/tanishgupta1211/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
