@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanishgupta1211/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3606-coupon-code-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanishgupta1211/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/3731-find-missing-elements) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/tanishgupta1211/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanishgupta1211/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tanishgupta1211/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tanishgupta1211/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3524-find-x-value-of-array-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
