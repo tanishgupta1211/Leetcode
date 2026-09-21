@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/tanishgupta1211/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/tanishgupta1211/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/tanishgupta1211/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/tanishgupta1211/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanishgupta1211/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanishgupta1211/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
