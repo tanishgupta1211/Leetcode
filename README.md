@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tanishgupta1211/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/tanishgupta1211/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/tanishgupta1211/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/tanishgupta1211/Leetcode/tree/master/0274-h-index) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tanishgupta1211/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanishgupta1211/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/tanishgupta1211/Leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanishgupta1211/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/tanishgupta1211/Leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/tanishgupta1211/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tanishgupta1211/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/tanishgupta1211/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -1185,4 +1189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/0022-generate-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
