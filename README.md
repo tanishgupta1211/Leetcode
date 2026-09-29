@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishgupta1211/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1436-destination-city](https://github.com/tanishgupta1211/Leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/tanishgupta1211/Leetcode/tree/master/1472-design-browser-history) |
 | [1528-shuffle-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/tanishgupta1211/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1629-slowest-key](https://github.com/tanishgupta1211/Leetcode/tree/master/1629-slowest-key) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1472-design-browser-history](https://github.com/tanishgupta1211/Leetcode/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/tanishgupta1211/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/tanishgupta1211/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1472-design-browser-history](https://github.com/tanishgupta1211/Leetcode/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/tanishgupta1211/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/tanishgupta1211/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/tanishgupta1211/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/tanishgupta1211/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/tanishgupta1211/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanishgupta1211/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/tanishgupta1211/Leetcode/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1202,4 +1206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0229-majority-element-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/tanishgupta1211/Leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/tanishgupta1211/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
