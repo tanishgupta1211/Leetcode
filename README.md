@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/tanishgupta1211/Leetcode/tree/master/1496-path-crossing) |
 | [1507-reformat-date](https://github.com/tanishgupta1211/Leetcode/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/tanishgupta1211/Leetcode/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/tanishgupta1211/Leetcode/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/tanishgupta1211/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanishgupta1211/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tanishgupta1211/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/tanishgupta1211/Leetcode/tree/master/1472-design-browser-history) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/tanishgupta1211/Leetcode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/tanishgupta1211/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1236,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tanishgupta1211/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
