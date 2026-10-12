@@ -12,10 +12,10 @@ public:
         long long ans = 0;
         while(k--){
             long long num = 0;
-            for(int bit = 0; bit < 32; bit++){
-                if(cnt[bit] > 0){
-                    num |= (1LL << bit);
-                    cnt[bit]--;
+            for(int b = 0; b < 32; b++){
+                if(cnt[b] > 0){
+                    num |= (1LL << b);
+                    cnt[b]--;
                 }
             }
             ans = (ans + num*num) % mod;
