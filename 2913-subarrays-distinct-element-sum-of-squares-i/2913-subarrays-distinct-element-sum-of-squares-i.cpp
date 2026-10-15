@@ -3,11 +3,12 @@ public:
     int sumCounts(vector<int>& nums) {
         int n = nums.size(), ans = 0;
         for(int i = 0; i < n; i++){
-            unordered_set<int> st;
+            vector<int> freq(101, 0);
+            int distinct = 0;
             for(int j = i; j < n; j++){
-                st.insert(nums[j]);
-                int distinct_cnt = st.size();
-                ans += distinct_cnt * distinct_cnt;
+                if(freq[nums[j]] == 0) distinct++;
+                freq[nums[j]]++;
+                ans += distinct * distinct;
             }
         }
         return ans;
