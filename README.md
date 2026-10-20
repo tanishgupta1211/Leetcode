@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3921-score-validator) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanishgupta1211/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/tanishgupta1211/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Geometry
@@ -1170,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3765-complete-prime-number](https://github.com/tanishgupta1211/Leetcode/tree/master/3765-complete-prime-number) |
+| [3886-sum-of-sortable-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
