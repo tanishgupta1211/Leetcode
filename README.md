@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/tanishgupta1211/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/tanishgupta1211/Leetcode/tree/master/3856-trim-trailing-vowels) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/tanishgupta1211/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/tanishgupta1211/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3921-score-validator) |
