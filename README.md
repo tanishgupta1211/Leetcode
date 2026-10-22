@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3921-score-validator) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/tanishgupta1211/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
