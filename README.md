@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanishgupta1211/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/tanishgupta1211/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanishgupta1211/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tanishgupta1211/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tanishgupta1211/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanishgupta1211/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -912,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/tanishgupta1211/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanishgupta1211/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanishgupta1211/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanishgupta1211/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/tanishgupta1211/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanishgupta1211/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1118,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/tanishgupta1211/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanishgupta1211/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1153,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tanishgupta1211/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tanishgupta1211/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tanishgupta1211/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tanishgupta1211/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
