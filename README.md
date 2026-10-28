@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tanishgupta1211/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/tanishgupta1211/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tanishgupta1211/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tanishgupta1211/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tanishgupta1211/Leetcode/tree/master/0735-asteroid-collision) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/tanishgupta1211/Leetcode/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanishgupta1211/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanishgupta1211/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
