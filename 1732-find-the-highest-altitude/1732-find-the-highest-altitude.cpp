@@ -1,11 +1,12 @@
 class Solution {
 public:
     int largestAltitude(vector<int>& gain) {
-        int curr = 0, maxAlt = 0;
-        for (int g : gain) {
-            curr += g;
-            maxAlt = max(maxAlt, curr);
+        int n = gain.size();
+        int highestAltitude = 0, currAltitude = 0;
+        for(int i = 0; i < n; i++){
+            currAltitude += gain[i];
+            highestAltitude = max(currAltitude, highestAltitude);
         }
-        return maxAlt;
+        return highestAltitude;
     }
 };
