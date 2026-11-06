@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/tanishgupta1211/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2293-min-max-game](https://github.com/tanishgupta1211/Leetcode/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/tanishgupta1211/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanishgupta1211/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/tanishgupta1211/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/tanishgupta1211/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2293-min-max-game](https://github.com/tanishgupta1211/Leetcode/tree/master/2293-min-max-game) |
 | [2326-spiral-matrix-iv](https://github.com/tanishgupta1211/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/tanishgupta1211/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
