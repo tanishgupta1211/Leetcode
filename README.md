@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/tanishgupta1211/Leetcode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/tanishgupta1211/Leetcode/tree/master/1472-design-browser-history) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/tanishgupta1211/Leetcode/tree/master/1598-crawler-log-folder) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tanishgupta1211/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/tanishgupta1211/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tanishgupta1211/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tanishgupta1211/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/tanishgupta1211/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tanishgupta1211/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-number-of-days-between-two-dates](https://github.com/tanishgupta1211/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tanishgupta1211/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/tanishgupta1211/Leetcode/tree/master/1518-water-bottles) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/tanishgupta1211/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1840-maximum-building-height](https://github.com/tanishgupta1211/Leetcode/tree/master/1840-maximum-building-height) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tanishgupta1211/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tanishgupta1211/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/tanishgupta1211/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanishgupta1211/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1668-maximum-repeating-substring](https://github.com/tanishgupta1211/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/tanishgupta1211/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
