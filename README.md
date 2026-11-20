@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/tanishgupta1211/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanishgupta1211/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tanishgupta1211/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/tanishgupta1211/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/tanishgupta1211/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanishgupta1211/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tanishgupta1211/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanishgupta1211/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/tanishgupta1211/Leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/tanishgupta1211/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/tanishgupta1211/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/tanishgupta1211/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/tanishgupta1211/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3693-climbing-stairs-ii) |
