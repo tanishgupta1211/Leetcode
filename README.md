@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/tanishgupta1211/Leetcode/tree/master/0493-reverse-pairs) |
 | [0500-keyboard-row](https://github.com/tanishgupta1211/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/tanishgupta1211/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/tanishgupta1211/Leetcode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanishgupta1211/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/tanishgupta1211/Leetcode/tree/master/0704-binary-search) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tanishgupta1211/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanishgupta1211/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishgupta1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/tanishgupta1211/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanishgupta1211/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/tanishgupta1211/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tanishgupta1211/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/tanishgupta1211/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/tanishgupta1211/Leetcode/tree/master/0561-array-partition) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tanishgupta1211/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1051-height-checker](https://github.com/tanishgupta1211/Leetcode/tree/master/1051-height-checker) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tanishgupta1211/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/tanishgupta1211/Leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/tanishgupta1211/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0561-array-partition](https://github.com/tanishgupta1211/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/tanishgupta1211/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/tanishgupta1211/Leetcode/tree/master/0860-lemonade-change) |
