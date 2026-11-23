@@ -1,28 +1,21 @@
 class ProductOfNumbers {
 public:
-    vector<int> ans;
+    vector<int> pre;
     ProductOfNumbers() {
-        ans = {};
+        pre.push_back(1);
     }
-    
+
     void add(int num) {
-        ans.push_back(num);
-    }
-    
-    int getProduct(int k) {
-        int p = ans.size();
-        int res = 1;
-        for(int i = 1; i <= k; i++){
-            res *= ans[p-1];
-            p--;
+        if(num == 0){
+            pre.clear();
+            pre.push_back(1);
         }
-        return res;
+        else pre.push_back(pre.back() * num);
+    }
+
+    int getProduct(int k) {
+        int n = pre.size();
+        if (k >= n) return 0;
+        return pre[n - 1] / pre[n - k - 1];
     }
 };
-
-/**
- * Your ProductOfNumbers object will be instantiated and called as such:
- * ProductOfNumbers* obj = new ProductOfNumbers();
- * obj->add(num);
- * int param_2 = obj->getProduct(k);
- */
