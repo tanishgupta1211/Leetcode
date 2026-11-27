@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tanishgupta1211/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tanishgupta1211/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/tanishgupta1211/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/tanishgupta1211/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/tanishgupta1211/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tanishgupta1211/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -1041,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanishgupta1211/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/tanishgupta1211/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/tanishgupta1211/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/tanishgupta1211/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/tanishgupta1211/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/tanishgupta1211/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/tanishgupta1211/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/tanishgupta1211/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tanishgupta1211/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
